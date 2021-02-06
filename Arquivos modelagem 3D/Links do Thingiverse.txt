@@ -1,0 +1,12 @@
+Os arquivos foram disponibilizados no thingiverse para tornar mais fácil a sua visualização e edição.
+
+Suporte e rotor de teste de sensor: https://www.thingiverse.com/thing:4752647
+
+Base para os sensores: https://www.thingiverse.com/thing:4752660
+
+Suporte para a placa de circuito impresso: https://www.thingiverse.com/thing:4752685
+
+Acoplamento da ventoinha ao tubo: https://www.thingiverse.com/thing:4752705
+
+
+Suporte para o display LCD, feito pelo usuário matt448 do thingiverse: https://www.thingiverse.com/thing:1885559
